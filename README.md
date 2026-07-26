@@ -1,45 +1,56 @@
-# Hello from 2018 👋
+# Hello from 2018
 
 This repository is a small archive of my early programming journey.
 
-I wrote my first lines of code years before becoming a software engineer.
-Coming from a non-technical background, even a simple "Hello World" program in Java once felt like entering a completely new world.
+It contains some of the learning materials, notes, and projects that reflect the beginning of my software engineering path.
 
-In 2018, I started learning programming more seriously through a coding bootcamp.
-I built small projects, practiced coding problems, and explored software development through hands-on exercises.
+This repository is not a showcase of production code. Instead, it preserves the early stages of learning — the experiments, notes, and ideas that helped me build my foundation as an engineer.
 
-Some early projects included:
-
-- 🎲 Simple games, such as a Flying Chess project
-- 💻 Programming exercises and algorithm practice
-- 🌱 Early experiments with software development
-
-This repository is not a showcase of production code.
-It is a snapshot of where I started — the early days of learning, exploring, and gradually becoming an engineer.
-
-No matter how much I build in the future, I want to remember where I started.
+Looking back at these early materials reminds me that career paths are rarely linear. Through exploration, experimentation, and continuous learning, we gradually discover the directions that fit us.
 
 ---
 
 ## Timeline
 
 ### 2014
+
 My first exposure to programming.
 
-- Wrote my first "Hello World" program in Java
-- Started discovering the world of software development
+- Wrote my first "Hello World" program in Java during college out of curiosity
+- At that time, I was exploring different interests and career possibilities, but did not yet have a clear purpose or direction for programming
+
 
 ### 2018
-Started my programming journey more seriously.
+
+Started learning programming more seriously.
 
 - Joined a coding bootcamp
-- Built small projects and games
-- Practiced programming problems with friends
-- Began developing the foundation for my engineering career
+- Built small projects and practiced programming problems
+- Created learning notes and organized concepts while building my foundation in software engineering
+
+
+### 2019 - 2021
+
+Started my professional career as a software engineer in China.
+
+- Worked on backend systems and data platforms
+- Continued learning through real-world engineering experience
+
+
+### 2021 - 2023
+
+Pursued a Master's degree in Computer Software Engineering at Northeastern University.
+
+- Strengthened my understanding of software systems
+- Expanded my engineering foundation
+
 
 ### 2023 - Present
-Building large-scale distributed systems and security infrastructure at Salesforce.
+
+Working as a Software Engineer at Salesforce.
+
+- Building distributed systems and large-scale data infrastructure
 
 ---
 
-> Never forget where you started.
+> Remember where you started.
